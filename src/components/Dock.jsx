@@ -1,5 +1,5 @@
 import React from 'react'
-import './doc.scss'
+import './dock.scss'
 
 const Dock = () => {
   return (
