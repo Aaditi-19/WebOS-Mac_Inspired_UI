@@ -4,7 +4,7 @@ import DateTime from './DateTime'
 
 const Nav = () => {
   return (
-    <div className='nav'>
+    <nav>
         <div className="left">
 
           <div className="apple-icon">
@@ -33,7 +33,7 @@ const Nav = () => {
             <DateTime />
           </div>
         </div>
-    </div>
+    </nav>
   )
 }
 
