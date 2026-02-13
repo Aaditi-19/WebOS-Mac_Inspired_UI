@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "title": "webOS - Mac Inspired UI",
+    "description": "A macOS-inspired web-based operating system interface built using modern JavaScript and DOM manipulation.",
+    "tags": ["HTML", "CSS", "JavaScript", "UI/UX", "DOM", "Frontend", "Responsive Design"],
+    "repoLink": "https://github.com/yourusername/webos-ui",
+    "demoLink": "https://webos-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "title": "FocusFlow - Productivity Dashboard",
+    "description": "A productivity dashboard featuring Pomodoro timer, to-do list, daily tasks, and motivational quotes.",
+    "tags": ["JavaScript", "Productivity", "Timer", "LocalStorage", "Time Management", "UI Components"],
+    "repoLink": "https://github.com/yourusername/focusflow",
+    "demoLink": "https://focusflow-demo.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "title": "FinTrack - Personal Finance Tracker",
+    "description": "A finance tracking application that visualizes spending habits using interactive charts and analytics.",
+    "tags": ["React", "Chart.js", "Node.js", "Finance", "REST API", "Data Visualization"],
+    "repoLink": "https://github.com/yourusername/fintrack",
+    "demoLink": "https://fintrack-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "title": "SecureAuth - Backend Identity Service",
+    "description": "A secure backend authentication system with JWT-based login, role-based access control, and encryption.",
+    "tags": ["Node.js", "Express", "JWT", "Security", "Authentication", "API Development"],
+    "repoLink": "https://github.com/yourusername/secureauth",
+    "demoLink": null
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "title": "ImageLab - Web Image Editor",
+    "description": "A browser-based image editor with filters, presets, real-time canvas manipulation, and download support.",
+    "tags": ["Canvas API", "JavaScript", "Image Processing", "UI", "Graphics", "Frontend Development"],
+    "repoLink": "https://github.com/yourusername/imagelab",
+    "demoLink": "https://imagelab-demo.vercel.app"
+  }
+]

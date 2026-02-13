@@ -4,7 +4,14 @@ import "./window.scss"
 
 const MacWindow = ({children}) => {
   return (
-    <Rnd>
+    <Rnd
+        default={{ 
+            width:"30vw",
+            height:"82vh",
+            x:150,
+            y:50
+        }}
+    >
         <div className="window">
             <div className="nav">
                 <div className="dots">
@@ -13,7 +20,7 @@ const MacWindow = ({children}) => {
                     <div className="dot green"></div>
                 </div>
 
-                <div className="title"><p>aaditi nalawade - zsh</p></div>
+                <div className="title"><p>abc - zsh</p></div>
             </div>
             <div className="main-content">
                 {children}
