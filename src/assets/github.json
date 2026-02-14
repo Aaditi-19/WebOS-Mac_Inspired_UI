@@ -43,5 +43,15 @@
     "tags": ["Canvas API", "JavaScript", "Image Processing", "UI", "Graphics", "Frontend Development"],
     "repoLink": "https://github.com/yourusername/imagelab",
     "demoLink": "https://imagelab-demo.vercel.app"
-  }
+  },
+  {
+  "id": 6,
+  "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64",
+  "title": "DevBoard - Project Management Tool",
+  "description": "A lightweight project management web application featuring task boards, drag-and-drop support, and team collaboration tools.",
+  "tags": ["React", "JavaScript", "Drag & Drop", "Project Management", "Frontend", "State Management"],
+  "repoLink": "https://github.com/yourusername/devboard",
+  "demoLink": "https://devboard-demo.vercel.app"
+}
+
 ]
